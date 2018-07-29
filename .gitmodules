@@ -1,0 +1,3 @@
+[submodule "contrib/example"]
+	path = contrib/example
+	url = git@github.com:sutarwadi/simple-cmake-library.git
